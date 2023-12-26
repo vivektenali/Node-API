@@ -3,7 +3,7 @@
 
 Learnt how to build a RESTful CRUD API with Node.js,Express and MongoDB from scratch.
 
-NPM packages used : Express,Mongoose,CORS,dotenv,asyncHandler
+NPM packages used : Express,Mongoose,CORS,dotenv,asyncHandler,Nodemon
 
 
 
